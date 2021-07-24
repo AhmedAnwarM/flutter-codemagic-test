@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "528816513362",
+    "project_id": "flutter-codemagic-test",
+    "storage_bucket": "flutter-codemagic-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528816513362:android:3d67fcb1ccce39ccb1da8b",
+        "android_client_info": {
+          "package_name": "com.aanwar.poc.codemagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528816513362-3r1cf5qbclj5jfnovv8qh9aol8ipjlc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIPa0BPGoIY7tDCJp_hoz0acAYEOuHZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528816513362-3r1cf5qbclj5jfnovv8qh9aol8ipjlc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528816513362-flul43bu7k6qem6vmoh5bf6pnvrnnv7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aanwar.poc.codemagic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
